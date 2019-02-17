@@ -1,0 +1,16 @@
+[
+  {
+    "Project": null,
+    "Team": null,
+    "Id": "061b827f-3674-4d80-a2b6-91445b9cf843",
+    "ProjectId": "46a719fb-911c-4f39-b545-008f5616b67c",
+    "TeamId": "d6710c78-325c-476e-a17e-e76726a395b2",
+    "ScrumMaster": null,
+    "ProductOwner": null,
+    "ClientDeveloper": null,
+    "ClientTester": null,
+    "ClientBusinessAnalyst": null,
+    "ClientUserInterface": null,
+    "Active": true
+  }
+]

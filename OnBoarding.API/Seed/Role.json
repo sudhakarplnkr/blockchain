@@ -1,0 +1,72 @@
+[
+  {
+    "Id": "1bb59057-482d-4a6c-9a1a-a86bbe67cbea",
+    "Code": "Common1",
+    "Name": "Common"
+  },
+  {
+    "Id": "8fffc7c1-52c0-48a3-a88b-e4248241c3c5",
+    "Code": "Developer1",
+    "Name": "Developer"
+  },
+  {
+    "Id": "45380aaf-d6ed-4ae9-9789-90f0d21dd761",
+    "Code": "Tester1",
+    "Name": "Tester"
+  },
+  {
+    "Id": "3db1090a-687c-45d0-9ec2-2c1346457571",
+    "Code": "Common",
+    "Name": "Common"
+  },
+  {
+    "Id": "3db1090a-687c-45d0-9ec2-2c1346457572",
+    "Code": "Developer",
+    "Name": "Developer"
+  },
+  {
+    "Id": "132b2fad-ee84-4086-8f19-cde0013fa5b0",
+    "Code": "Developer1",
+    "Name": "Developer"
+  },
+  {
+    "Id": "3db1090a-687c-45d0-9ec2-2c1346457573",
+    "Code": "Tester",
+    "Name": "Tester"
+  },
+  {
+    "Id": "3db1090a-687c-45d0-9ec2-2c1346457574",
+    "Code": "Business Analyst",
+    "Name": "Business Analyst"
+  },
+  {
+    "Id": "3db1090a-687c-45d0-9ec2-2c1346457575",
+    "Code": "Other",
+    "Name": "Other"
+  },
+  {
+    "Id": "3db1090a-687c-45d0-9ec2-2c1346457576",
+    "Code": "UIDesigner",
+    "Name": "UIDesigner"
+  },
+  {
+    "Id": "720de7aa-d5b2-441b-8f87-0f55f3b9420f",
+    "Code": "UIDesigner2",
+    "Name": "UIDesigner2"
+  },
+  {
+    "Id": "3db1090a-687c-45d0-9ec2-2c1346457577",
+    "Code": "Admin",
+    "Name": "Admin"
+  },
+  {
+    "Id": "4743551a-2637-4022-b710-62854b89beaf",
+    "Code": "UIDesigner3",
+    "Name": "UIDesigner3"
+  },
+  {
+    "Id": "3d484d65-5409-4099-988d-a834241a1dad",
+    "Code": "UIDesigner4",
+    "Name": "UIDesigner4"
+  }
+]
